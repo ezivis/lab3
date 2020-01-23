@@ -15,7 +15,7 @@ function initializePage() {
 		$(".jumbotron p").toggleClass("active");
 	});
 $("a.thumbnail").click(projectClick);
-	// Add any additional listeners here
+	// Add any additional listeners here...
 	// example: $("#div-id").click(functionToCall);
 }
 function projectClick(e){
